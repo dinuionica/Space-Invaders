@@ -1,4 +1,4 @@
-# 315CA Dinu Ion Irinel
+# Copyright 2021 Dinu Ion Irinel
 import pygame
 import os
 import time
