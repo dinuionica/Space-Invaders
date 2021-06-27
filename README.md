@@ -9,11 +9,14 @@ as many points as possible.
 
 For download this project:
 ```
-https://github.com/dinuionica/Load-Balancer.git
+https://github.com/dinuionica/Space-Invaders.git
 ```
-For test you can use make command using linux :<br />
+For test you can use these commands :<br />
 ```
-make 
+ sudo apt-get install python3-pip python3-dev  
+ sudo pip3 install pygame
+ import pygame
+ python3 space.py
 ```
 
 ![Screenshot from 2021-06-27 17-40-57](https://user-images.githubusercontent.com/51510817/123548840-6fdda500-d734-11eb-90a6-0d1f5121e4b8.png)
